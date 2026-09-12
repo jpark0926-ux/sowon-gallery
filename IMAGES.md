@@ -1,0 +1,1 @@
+placeholder — binary JPEG upload not supported by this text tool; images served from Vercel deploy
